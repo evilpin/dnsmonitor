@@ -1,5 +1,5 @@
 # dnsmonitor
-Nagios/Icinga plugin to monitor for unauthorized changes in domain names.
+Nagios/Icinga plugin to monitor for unauthorized changes in domain names. Useful for auditing your own domains.
 
 Example config:
 ```json
